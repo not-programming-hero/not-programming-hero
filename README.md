@@ -11,3 +11,12 @@
 <a href="https://web.programming-hero.com">
 <img src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/impacts.png" />
 </a>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
+<img src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
+<img src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
+<img src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
+<img src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
+<img src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
+</p>

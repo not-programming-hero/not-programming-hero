@@ -7,7 +7,7 @@
 <br />
 <br />
 <br />
-<h3 align="center">Our mission is to provide personalized learning, develop skills, and empower individuals to kick-start their careers.</h3>
+<h3 align="center">Our mission is to provide personalized learning, develop skills, <br/> and empower individuals to kick-start their careers.</h3>
 <br />
 <br />
 <br />

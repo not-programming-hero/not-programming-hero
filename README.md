@@ -4,7 +4,7 @@
 
 ## :muscle: Our Mission_
 
-<h3 align="center">Our mission is to provide personalized learning, develop skills, and empower individuals to kick-start their careers.</h3>
+<h2 align="center">Our mission is to provide personalized learning, develop skills, and empower individuals to kick-start their careers.</h2>
 
 ## :chart_with_upwards_trend: Our Impacts_
 

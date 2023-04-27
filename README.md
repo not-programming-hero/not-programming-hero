@@ -13,10 +13,10 @@
 </a>
 
 <p align="center">
-<img height="350" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
-<img height="350" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
-<img height="350" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
-<img height="350" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
-<img height="350" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
-<img height="350" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
+<img height="275" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
+<img height="275" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
+<img height="275" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
+<img height="275" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
+<img height="275" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
+<img height="275" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
 </p>

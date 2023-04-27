@@ -4,7 +4,7 @@
 
 ## :muscle: Our Mission_
 
-<h4 align="center">Our mission is to provide personalized learning, develop skills, and empower individuals to kick-start their careers.</h4>
+<h4 style="text-align: center;">Our mission is to provide personalized learning, develop skills, and empower individuals to kick-start their careers.</h4>
 
 ## :chart_with_upwards_trend: Our Impacts_
 
@@ -13,10 +13,10 @@
 </a>
 
 <p align="center">
-<img height="238" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
-<img height="238" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
-<img height="238" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
-<img height="238" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
-<img height="238" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
-<img height="238" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
+<img height="237" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
+<img height="237" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
+<img height="237" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
+<img height="237" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
+<img height="237" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
+<img height="237" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/tile.png"/>
 </p>

@@ -1,3 +1,8 @@
+<head>
+<base target="_blank">
+</head>
+
+
 <a href="https://web.programming-hero.com">
 <img src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/banner.png" />
 </a>
@@ -26,7 +31,7 @@
 <br/>
 <br/>
 
-***<p align="center"> [<img height="55" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/website.png">](https://web.programming-hero.com){:target="_blank"}[<img height="55" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/facebook.png">](https://www.facebook.com/programmingherowebcourse){:target="_blank"}[<img height="55" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/linkedin.png">](https://www.linkedin.com/company/programminghero/mycompany/){:target="_blank"} </p>***
+***<p align="center"> [<img height="55" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/website.png">](https://web.programming-hero.com)[<img height="55" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/facebook.png">](https://www.facebook.com/programmingherowebcourse)[<img height="55" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/linkedin.png">](https://www.linkedin.com/company/programminghero/mycompany/) </p>***
 
 <br/>
 <br/>

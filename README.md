@@ -29,6 +29,14 @@
 <img height="237" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/live.png"/>
 </p>
 
+<br />
+
+<p align="center">
+<a href="https://web.programming-hero.com">
+<img height="55" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/explore.png"/>
+</a>
+</p>
+
 ## :bulb: What You Will Learn_
 
 <p align="center">
@@ -49,11 +57,15 @@
 <img height="150" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/MongoDB.png"/>
 <img height="150" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/JWT.png"/>
 </p>
+
+<br />
+
 <p align="center">
-<a href="https://web.programming-hero.com">
-<img height="237" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/explore.png"/>
+<a href="https://web.programming-hero.com/course-details">
+<img height="55" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/curriculum.png"/>
 </a>
 </p>
+
 
 ## :mailbox: Contact with us
 

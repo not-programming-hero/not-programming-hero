@@ -57,6 +57,4 @@
 
 ## :mailbox: Contact with us
 
-[<p align="center"><img height="75" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/website.png">](https://web.programming-hero.com)[<img height="75" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/facebook.png">](https://www.facebook.com/programmingherowebcourse)[<img height="75" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/linkedin.png"> </p>](https://www.linkedin.com/company/programminghero/mycompany/)
-
-
+[<p align="center"><img height="55" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/website.png">](https://web.programming-hero.com)[<img height="55" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/facebook.png">](https://www.facebook.com/programmingherowebcourse)[<img height="55" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/linkedin.png"> </p>](https://www.linkedin.com/company/programminghero/mycompany/)

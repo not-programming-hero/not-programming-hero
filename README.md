@@ -18,6 +18,18 @@
 <img  src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/impacts.png" />
 </a>
 
+<br/>
+<br/>
+
+## :mailbox: Contact with us
+
+<br/>
+<br/>
+
+[<p align="center"><img height="55" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/website.png">](https://web.programming-hero.com)[<img height="55" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/facebook.png">](https://www.facebook.com/programmingherowebcourse)[<img height="55" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/linkedin.png"> </p>](https://www.linkedin.com/company/programminghero/mycompany/)
+
+<br/>
+<br/>
 ## :zap: X-Factors Of Programming Hero_
 
 <p align="center">
@@ -36,6 +48,9 @@
 <img height="55" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/explore.png"/>
 </a>
 </p>
+
+<br/>
+<br/>
 
 ## :bulb: What You Will Learn_
 
@@ -66,7 +81,5 @@
 </a>
 </p>
 
-
-## :mailbox: Contact with us
-
-[<p align="center"><img height="55" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/website.png">](https://web.programming-hero.com)[<img height="55" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/facebook.png">](https://www.facebook.com/programmingherowebcourse)[<img height="55" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/linkedin.png"> </p>](https://www.linkedin.com/company/programminghero/mycompany/)
+<br/>
+<br/>
